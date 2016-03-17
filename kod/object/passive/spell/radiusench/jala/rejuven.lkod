@@ -6,7 +6,7 @@ Rejuvenate_cast = de "Du fängst an, ein motivierendes Lied zu spielen."
 Rejuvenate_starts = de "%s beginnt ein motivierendes Lied zu spielen."
 Rejuvenate_ends = de "Das motivierende Lied, gespielt von %s verstummt."
 Rejuvenate_caster_ends = de "Dein motivierendes Lied verstummt."
-Rejuvenate_caster_enter = de "Du spürst die Müdigkeit zurückkehren."
+Rejuvenate_caster_enter = de "Du spürst, das du deine Mana schneller regenerierst."
 Rejuvenate_enter = de \
    "%s's motivierendes Lied lässt dich deine Müdigkeit vergessen."
 Rejuvenate_leave = de \

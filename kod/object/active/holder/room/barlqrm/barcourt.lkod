@@ -5,6 +5,7 @@ news_justicar_desc = de \
 BarloqueCourt_sign_name = de "Informationen über den Justiziar"
 BarloqueCourt_sign_desc = de \
    "Eingelassen in dieses Schild, steht der folgende Text: \n\n"
+<<<<<<< HEAD
    "Durch den Beschluss des Rates Meridians sowie Prinzessin Kateriina, wird die Position "
    "des Justiziars aufgehoben. Der Grund liegt in der lang anhaltenden Geschichte von exzessiver Korruption. "
    "\n\n"
@@ -23,3 +24,23 @@ BarloqueCourt_sign_desc = de \
    "Diese Namensänderung hat jedoch sehr hohe Kosten. Caramo wird mehr Informationen für "
    "Dich haben, wenn man Sie nach \"Namen ändern\" fragt.\n"
    
+=======
+   "Durch den Beschluss des Rates und Prinzessin Kateriina, wird die Position "
+   "des Justiziars beendet, wegen der lang anhaltenden Geschichte von exzessiver Korruption. "
+   "\n\n"
+   "Dennoch bleibt das Büro des Justiziars geöffnet und wird die Arbeit fortsetzen."
+   "Es wird sich um gesetzliche Belange des gesamten Landes kümmern. Die Bürger haben "
+   "folgende Möglichkeiten."
+   "\n\n"
+   "Jeder Bürger kann nun den gesetzlichen Status, eines jeden Bürgers abrufen. Dazu "
+   "muss lediglich der Name des Bürgers laut gesagt werden."
+   "\n\n"
+   "Ebenso kann man seinen gesetzlichen Status wieder verbessern (Als Gesetzesloser oder Mörder), "
+   "in dem man einen großen Betrag an den Staat zahlt.\n"
+   "Jeder Mörder, der nach Reduktion seines gesetzeslosen Titels fragt, kann eine große Summe Geld "
+   "direkt an Caramo zahlen, und eine verbesserung des Status erfolgt sofort."
+   "\n\n"
+   "Bürger können nun auch den eigenen \"Namen ändern\" anhand einer Urkunde."
+   "Diese Änderung hat sehr hohe Kosten.  Caramo wird mehr Informationen haben, wenn man Sie fragt.\n"
+
+>>>>>>> refs/remotes/origin/Meridian59_112

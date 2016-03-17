@@ -1,10 +1,10 @@
 WallSpell_outlaw = de \
    "\nHINWEIS: Wenn deine Sicherheit an ist, wird dieser Zauber keine Unschuldigen "
-   "verletzen.  Sollte allerdings deine Sicherheit aus sein, wirst du gesetzlos, wenn andere "
+   "verletzen. Sollte allerdings deine Sicherheit aus sein, wirst du gesetzlos, wenn andere "
    "Spieler dadurch verletzt werden."
 WallSpell_outlaw_murderer = de \
    "\nHINWEIS: Wenn deine Sicherheit an ist, wird dieser Zauber keine Unschuldigen "
-   "verletzen.  Sollte allerdings deine Sicherheit aus sein, wirst du gesetzlos, wenn "
+   "verletzen. Sollte allerdings deine Sicherheit aus sein, wirst du gesetzlos, wenn "
    "andere Spieler dadurch verletzt werden. Oder sogar zu einem Mörder, wenn du "
    "jemanden tötest."
 WallSpell_failed_rsc = de "Es gibt schon zu viele Beschwörungszaubber im Raum."

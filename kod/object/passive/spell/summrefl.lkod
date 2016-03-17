@@ -4,7 +4,7 @@ summonreflection_desc_rsc = de \
    "Ruft eine Kreatur herbei, die ein Ebenbild Deiner selbst ist. "
    "Beachte, dass Du für alle Taten Deiner Reflektion verantwortlich "
    "bist und dass diese ausgesprochen schwer zu kontrollieren ist. "
-   "Nimm Feuersand ungeschliffene Seraphyme dafür."
+   "Nimm Feuersand und ungeschliffene Seraphyme dafür."
 summonreflection_failed_rsc = de \
    "Es gibt schon zu viele Beschwörungszauber in diesem Raum."
 summonreflection_limit_rsc = de \
