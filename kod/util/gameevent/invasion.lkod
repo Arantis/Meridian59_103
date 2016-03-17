@@ -1,2 +1,4 @@
-invasion_start_msg = de "Invasion wurde gestartet."
-invasion_end_msg = de "Invasion ist beendet."
+invasion_start_msg = de \
+   "~B~k[Event]~n ~B~v Die Invasion hat begonnen."
+invasion_end_msg = de \
+   "~B~k[Event]~n ~B~v Die Invasion wurde beendet."
