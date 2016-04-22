@@ -1,4 +1,4 @@
-resistfire_name_rsc = de "Feuer Widerstehen"
+resistfire_name_rsc = de "Feuer widerstehen"
 resistfire_desc_rsc = de \
    "Dein Körper füllt sich mit kühler magischer Energie, "
    "die den Schaden von Feuerangriffen für mehrere Minuten verringert. "

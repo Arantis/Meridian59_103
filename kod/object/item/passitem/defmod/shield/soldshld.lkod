@@ -17,6 +17,6 @@ SoldierShield_booted_mail = de \
    "Betreff: Dein Status als Soldat wurde aufgehoben. Ich habe Dich aus meiner "
    "Armee von Soldaten entfernt. Ich habe für jemand so feigen wie Dich keine "
    "Verwendung."
-SoldierShield_sling_on_back = de "Du schnallst dein Schild auf den Rücken."
+SoldierShield_sling_on_back = de "Du schnallst dein Fraktionsschild auf den Rücken."
 SoldierShield_remove_from_back = de \
-   "Du entfernst Deinen Schild von deinem Rücken."
+   "Du entfernst das Fraktionsschild von deinem Rücken."

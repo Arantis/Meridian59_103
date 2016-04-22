@@ -20,14 +20,14 @@ Phase_lost_one_item = de \
 Phase_lost_two_items = de \
    "Du hast %s Skill Punkte, %s Zauber Punkte, %s%s, und %s%s verloren."
 Phase_phased_out_high_health = de \
-   "%s steigt aus, obowohl er völlig unverletzt ist."
+   "%s steigt aus, obwohl er völlig unverletzt ist."
 Phase_phased_out_medium_health = de \
    "Sicher, das es ungünstig für ihn im Kampf steht, steigt %s aus der Realität "
    "aus."
 Phase_phased_out_low_health = de \
    "Kurz vor seinem Tot steigt %s aus der Realität aus!"
 Phase_phased_out_one_health = de \
-   "%s steigt nicht mal eine sekunde vor seinem Tot aus der Realität aus!"
+   "%s steigt nicht mal eine Sekunde vor seinem Tot aus der Realität aus!"
 Phase_caster_out = de \
    "Dein Körper befindet sich nun auf einer anderen Bewußtseinsebene. "
    "Du hast nun %d Sekunden Zeit, wieder zurück zu kehren. "
@@ -37,9 +37,9 @@ Phase_caster_in = de \
    "zurückgekehrt."
 Phase_in = de "%s kehrt aus seinem Ausstieg aus der Realität zurück!"
 penalties_inflicted_one_item = de \
-   "Du hast %s Skill Punkte, %s Zauber Punkte, und %s%s verloren."
+   "Du hast %s Prozente in Waffenfertigkeiten, %s Prozente in Zaubersprüchen, und %s%s verloren."
 penalties_inflicted_plural = de \
-   "Du hast %s Skill Punkt, %s Zauber Punkt, und %s%s verloren"
+   "Du hast %s Prozente in Waffenfertigkeiten, %s Prozente in Zaubersprüchen, %s%s, und %s%s verloren."
 no_phasing_in_safe_place_msg = de \
    "Dieser Ort ist sicher und ruhig. Du kannst hier nicht aussteigen."
 no_phasing_in_guildhall_msg = de \

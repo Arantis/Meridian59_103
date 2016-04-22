@@ -8,9 +8,9 @@ Mirth_desc_rsc = de \
 Mirth_on = de "%s%ss fröhliches Lied lässt dich eine gute Stimmung bekommen."
 Mirth_cast = de "Du beginnst ein fröhliches Lied zu spielen."
 Mirth_starts = de "%s beginnt ein fröhliches Lied zu spielen."
-Mirth_ends = de "Der fröhliche Lied, gespielt von %s verstummt."
+Mirth_ends = de "Das fröhliche Lied, gespielt von %s, verstummt."
 Mirth_caster_ends = de "Dein fröhliches Lied verstummt."
-Mirth_caster_enter = de "Deine Laune wird ein wenig besser."
-Mirth_enter = de "%ss fröhliches Lied, verbessert deine Laune etwas."
+Mirth_caster_enter = de "Deine Laune wird ein wenig besser, du fühlst dich im Kampf gegen die böse Mächte gewappnet."
+Mirth_enter = de "%s's fröhliches Lied verbessert deine Laune, du fühlst dich im Kampf gegen die böse Mächte gewappnet."
 Mirth_leave = de \
-   "Du kannst das fröhliches Lied, gesungen von %s, nicht mehr hören."
+   "Du kannst das fröhliche Lied, gesungen von %s, nicht mehr hören."
