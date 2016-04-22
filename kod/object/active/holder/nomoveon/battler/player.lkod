@@ -476,7 +476,7 @@ cannot_attack_ally = de \
 cannot_attack_guildmate = de \
    "Du kannst %s nicht angreifen,%sdu bist sein Gildenmitglied!"
 group_experience_rsc = de \
-   "Du absorbierst eine kleine Menge an Energie von %ss Mord an %s."
+   "%s$1 wurde von %s$0s getötet. Du absorbierst eine kleine Menge an Energie von diesem Mord."
 rod_gained_charge_msg = de \
    "Du bemerkst, dass eine deiner magischen Gegenständen durch den Tod wieder "
    "etwas aufgeladen wurde."

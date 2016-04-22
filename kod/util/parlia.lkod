@@ -4,7 +4,7 @@ parliament_dam_up = de \
    "~ITechniken, erlernt von %s, helfen Dir, mehr Schaden anzurichten."
 parliament_hit_up = de "~ITechniken, erlernt am Hof von %s, lassen Dich besser treffen."
 parliament_learn_up = de \
-   "~IInspiriert von %s, denkst Du einen Moment darüber nach, wie Du Dich" 
+   "~IInspiriert von %s, denkst Du einen Moment darüber nach, wie Du Dich " 
    "verbessern könntest."
 parliament_spell_up = de \
    "~ITechniken, erlernt am Hof von %s, verbessern die Effektivität Deiner Zaubersprüche."

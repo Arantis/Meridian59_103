@@ -1,4 +1,4 @@
-item_this = de "Dies "
+item_this = de ""
 item_try_use_cursed_rsc = de \
    "Als Du diesen Gegenstand aufhebst, fühlst du Dich mächtiger als du bist. Nicht "
    "ganz bei dir selbst, versuchst du es anzulegen!"
@@ -45,4 +45,4 @@ item_stats_proc_bonk = de "8%% Chance auf Bonk beim Schlag\n"
 item_stats_proc_purge = de "15%% Chance den Zauber Beseitigen auf deinen Gegner zu zaubern\n"
 item_stats_proc_twister = de "8%% Chance Deinen Gegner mit GMT zu belegen\n"
 item_stats_proc_vamp = de "10%% Chance beim Schlag 8 Lebenspunkte auf Dich zu übertragen\n"
-item_stats_bonus_xp = de "%i bonus XP per kill\n"
+item_stats_bonus_xp = de "+%i Bonus XP\n"

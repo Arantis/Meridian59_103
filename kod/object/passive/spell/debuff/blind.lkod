@@ -6,6 +6,6 @@ blind_desc_rsc = de \
 blind_caster = de "%s%s ist jetzt geblendet."
 blind_already_enchanted = de "%s%s ist bereits geblendet."
 blind_on = de \
-   "Etwas brennt in Deinen Augen und Du kannst um dich herum nichts mehr "
-   "sehen. "
-blind_off = de "Deine Augen sind wieder in der Lage alles normal zu sehen."
+   "Eine magische Energie legt sich um Deine Augen, die schreckliche Schmerzen "
+   "und Blindheit verursacht. "
+blind_off = de "Du kannst wieder mit Deinen Augen sehen."

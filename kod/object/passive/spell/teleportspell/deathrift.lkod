@@ -14,7 +14,7 @@ DeathRift_travel = de \
 DeathRift_travel_notify = de \
    "Ein Riss aus Flammen erscheint für eine kurze Zeit, und schleppt %s in die Unterwelt!"
 DeathRift_travel_notify_dest = de \
-   "Ein Portal aus Flammen entsteht für eine kurze Zeit, und schleppt %s durch die Unterwelt und zu %s!"
+   "Für eine kurze Zeit entsteht ein Portal aus Flammen, und schleppt %s durch die Unterwelt zu der Karte \"%s\"!"
 DeathRift_generic_fail = de \
    "Der Pakt mit dem Teufel schlägt fehlt. Irgendetwas scheint zu fehlen."
 DeathRift_warning = de \
