@@ -1,4 +1,4 @@
 weapattglowing_desc = de " Die Waffe glüht sanft wie eine Fackel."
 weapattglowing_name = de "glühend %s"
-waglowing_gone = de " %s hört auf zu glühen."
+waglowing_gone = de "%s hört auf zu glühen."
 glowing_dm = de "Glühend"

@@ -9,9 +9,9 @@ FinalRites_success = de \
    "Du zerkleinerst die Reagenzien zu feinem Pulver und mit einem Murmeln "
    "wirst Du eine Handvoll Staub in den Himmel"
 FinalRites_success_others = de \
-   "Murmelnd wirft %s%s ein feines Pudder in den Himmel."
+   "Murmelnd wirft %s%s ein feines Puder in den Himmel."
 FinalRites_hurt = de \
-   "%s%s kreischt vor Schmerz, als ein Sand herabfällt wie ein heiliger Regen."
+   "%s%s kreischt vor Schmerz, als Sand herabfällt wie ein heiliger Regen."
 FinalRites_hurt_necro = de \
    "%s%s wirft eine handvoll Staub in die Luft und es fällt auf dich hinab "
    "und verbrüht dich wie heißer Regen"

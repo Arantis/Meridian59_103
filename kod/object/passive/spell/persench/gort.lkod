@@ -21,3 +21,11 @@ gort_enchantment_rsc = de \
    "magischen Schaden bis 15HP, zum Teil magischen Schaden bis 20HP und "
    "ganzen magischen Schaden bis 25HP. Nur der besseren dieser beiden "
    "Effekte greift. "
+gort_phys_red_rsc = de \
+    "%s%s's Gorts Panzer verhärtet sich und schützt vor viel Kraft des Angriffs.%s"
+gort_part_mag_red_rsc = de \
+    "%s%s's Gorts Panzer straft sich und mildert einiges von den zum Teil magischen Angriffen."
+gort_mag_red_rsc = de \
+    "%s%s's Gorts Panzer schimmert und bietet einen leichten Schutz vor magischen Angriffen."
+
+	

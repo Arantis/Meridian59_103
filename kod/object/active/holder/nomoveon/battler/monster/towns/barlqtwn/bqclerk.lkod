@@ -24,7 +24,7 @@ bq_clerk_refuse_service = de \
 
 bq_clerk_election_no_justicar_subject = de "Das Amt ist frei"
 bq_clerk_election_no_justicar = de \
-   "Das Büro des Justiziars ist nun unbesetzt. Bis keine neue Wahl gehalten "
+   "Das Büro des Justiziars ist nun unbesetzt. Bis eine neue Wahl gehalten "
    "wurde und ein neuer Justiziar gewählt ist, gibt es keine Begnadigungen "
    "durch die Krone.\n\n-- Caramo"
 bq_clerk_election_open_subject = de "Der Wahlkampf hat begonnen"

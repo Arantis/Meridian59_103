@@ -5,6 +5,6 @@ majorheal_desc_rsc = de \
    "auf missratene Seelen anwendest, reduzierst Du damit Dein eigenes Karma-Niveau. "
    "Dazu braucht man vier Kräuter."
 majorheal_cast_rsc = de \
-   "%s%ss Zauber stellt bei dir ~g~B%i~B~n Lebenspunkte wieder herr."
+   "Die %s%ss stellt ~g~B%i~B~n Lebenspunkte wieder her."
 majorheal_cast_self = de \
-   "Shal'illes Zauber stellt be dir ~g~B%i~B~n Lebenspunkte wieder her."
+   "Sha'lill heilt dich um ~g~B%i~B~n Lebenspunkte."
