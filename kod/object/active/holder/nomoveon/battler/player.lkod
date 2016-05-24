@@ -75,13 +75,14 @@ player_improved = de \
 player_aggressor = de \
    "Sha-Lill ist Durch Deinen ungerechtfertigten Angriff erzürnt."
 player_aggressor_minion = de \
-   "Shal'ille frowns upon your unprovoked attack on %s%s's minion."
+   "Shal'ille runzelt die Stirn auf deinen unprovozierten Angriff auf %s%s's Kreatur."
 player_safety_caught = de \
    "Hey! Du hast fast %s%s getroffen! Gut, dass Deine Schutzvorrichtung an "
    "war!"
 player_safety_caught_minion = de \
-   "Hey!  You almost hit %s%s's minion! Good thing your safety was on!"
-player_own_minion = de "You cannot attack your own minion!"
+   "Hey! Du hast fast %s%s's Kreatur getroffen! Gut, dass Deine Schutzvorrichtung an "
+   "war!"
+player_own_minion = de "Du kannst nicht deine eigenen Kreatur angreifen!"
 player_safe_server = de \
    "In dieser Welt können keine anderen Spieler angegriffen werden."
 player_no_enter = de \
