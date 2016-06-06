@@ -187,9 +187,9 @@ autoloot_got_some_but_full_now = de \
    "Du nimmst ein paar Gegenstände von der Leiche auf, wirst aber behindert "
    "alles aufzunehmen."
 autoloot_got_nothing_because_full = de \
-   "Du kannst nicht alles plündern, da du schon zu voll bist."
+   "Du kannst nicht alles plündern, da du schon zu vollgepackt bist."
 autoloot_got_only_shillings_because_full = de \
-   "Du kannst nichts mehr von der Leiche plündern da du zu voll bist, und "
+   "Du kannst nichts von der Leiche plündern da du zu vollgepackt bist und "
    "nimmst nur die %d Schillinge."
 monster_faction_negative_msg = de \
       "Dein Ansehen bei %s hat sich verringgert"
