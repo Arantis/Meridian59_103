@@ -6,10 +6,10 @@ MarionElder_desc_rsc = de \
    "Ob man ihn nun für einen Weisen und einen Dorftrottel hält, hängt ganz "
    "davon ab, wen man gerade fragt."
 MrEl_entry_welcome = de \
-   "Ein weitere Reisender in Meridian. Vielleicht kommt %s%s zu mir und erzählt "
-   "mir erlebtes Abenteuer."
+   "Ein weitere Reisender in Meridian! Vielleicht kommt %s%s zu mir und erzählt "
+   "mir ein selbst erlebtes Abenteuer?"
 Ran_orctooth = de \
    "Ich zog ein paar aus einem verrottetem Schädel oben in den Bergen. Du "
    "siehst ich weiß, wo ihre Grabstätten sind, und man könnte sagen, dass  "
-   "ich eine Art ~ISammler~I bin."
+   "ich eine Art ~ISammler~n bin."
 MrEl_stat_window_trigger = de "Werte ändern"

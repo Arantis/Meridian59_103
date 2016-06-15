@@ -36,7 +36,7 @@ guildhall_already_rented = de \
    "Deine Gilde hat diese Gildenhalle bereits gemietet!"
 guildhall_conquered = de "~B%s, Halle der Gilde %s%q, wurde erobert!"
 guildhall_conquerer = de \
-   "~B%s, Gildenhalle von %s%q, wurde von %s%q erobert!Für kurze Zeit wird "
+   "~B%s, Gildenhalle von %s%q, wurde von %s%q erobert! Für kurze Zeit wird "
    "Frular diese Gildenhalle nur an Dich vermieten!"
 guildhall_conquerer_unguilded = de \
    "~B%s, Gildenhalle von/der %s%q, wurde erobert von %s%s!"
@@ -44,6 +44,8 @@ guildhall_new_password = de "~BDas Passwort der Halle %s wurde geändert."
 guildhall_cant_open = de \
    "Die magische Verteidigung der Gildenhalle %s verhindert, dass Du die "
    "äußere Tür öffnest."
+cannot_conveyance_msg = de \
+   "Die Verteidigung der Gildenhalle behindert dich dabei, den Zauber Transport anzuwenden."
 guildhall_new_occupants = de "~B%s wird an neue Besitzer vermietet."
 guildhall_someone_rented = de "Diese Gildenhalle ist bereits vermietet."
 guildhall_newsball = de "Nachrichten"
