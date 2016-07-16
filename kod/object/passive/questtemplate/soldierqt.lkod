@@ -1,11 +1,11 @@
 % Quest description.
 soldierqt_kill_rsc = de \
    "%s wird Dich in die Reihen der%s Soldaten aufnehmen, aber zuerst "
-   "musst du %s%s tÃ¶ten. "
-   "Erledige diese Aufgabe und kehre zurÃ¼ck zu %s."
+   "musst du %s%s töten. "
+   "Erledige diese Aufgabe und kehre zurück zu %s."
 
 soldierqt_return_rsc = de \
-   "Kehre zurÃ¼ck zu %s und informiere %s das Du den Auftrag abgeschlossen hast."
+   "Kehre zurück zu %s und informiere %s das Du den Auftrag abgeschlossen hast."
 
 % Quest resources.
 faction_soldier_trigger = de "Soldat"

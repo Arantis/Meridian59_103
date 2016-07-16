@@ -221,9 +221,8 @@ user_duplicate_guild_username = de \
 user_couldnt_replace = de \
    "Du konntest nicht zu Deinem Ausgangsort zurückkehren."
 user_logon = de \
-   "~BWillkommen auf Server 112 - der Offizielle Meridian 59 Server in Deutschland! "
-   "~n(Tippe \"Hilfe\", um weitere Informationen rund um die Welt von Meridian59 zu "
-   "erhalten). "
+   "~BWillkommen auf der Offiziellen Welt von Meridian 59 Deutschland! "
+   "~n(Tippe \"Hilfe\", um weitere Informationen rund um Meridian59 zu erhalten). "
 user_goto_lastsaferoom = de \
    "Du wurdest an den letzten sicheren Ort geschickt, den du besucht hast."
 user_goto_safety = de "Du wurdest an einen sicheren Ort geschickt."

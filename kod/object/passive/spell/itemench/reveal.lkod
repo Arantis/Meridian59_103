@@ -2,7 +2,7 @@ reveal_name_rsc = de "Offenbaren"
 reveal_desc_rsc = de \
    "Streift jegliche Tarnung von einem Gegenstand ab, "
    "so dass jeder die besonderen Fähigkeiten erkennen kann. "
-   "Man braucht zehn Smaragde, um den Zauber zu auszusprechen."
+   "Man braucht zehn Smaragde, um den Zauber auszusprechen."
 reveal_cant = de "%s%s kann scheinbar nicht fokussiert werden."
 reveal_working = de \
    "%s%s ist das Ziel Deiner Konzentration. Die verborgenen Geheimnisse "

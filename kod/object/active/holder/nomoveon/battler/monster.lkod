@@ -14,7 +14,7 @@ monster_teach_quest_needed = de \
    "Ich könnte Dir %s beibringen, jedoch musst Du zuerst Deinen Wert als "
    "Schüler unter Beweis stellen."
 monster_teach_base = de \
-   "Du bist auf dem richtigen Weg und mit %s Fortschritt im vorherigen %s-Zirkel "
+   "Du bist auf dem richtigen Weg und mit %sFortschritt im vorherigen %s-Zirkel "
    "kannst Du das lernen.%s$0"
 monster_teach_success = de \
    "Gratuliere! Du hast alle Voraussetzungen erfüllt, um diesen Zirkel zu "
