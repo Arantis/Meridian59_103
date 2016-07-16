@@ -3,8 +3,8 @@ mend_desc_rsc = de \
    "Beseitigt die Spuren vieler Kämpfe von einem Teil der Ausrüstung und "
    "stellt sie fast völlig wieder her. Der Zauber benötigt einen Orkzahn und einen Saphir."
 mend_not_weaponry = de \
-   "Du versuchst dich auf %s%s zu fokussieren, aber es scheint nicht zu funktionieren!"
-mend_beyond_hope = de "%s%s ist nicht mehr zu retten."
-mend_full_healed = de "%s%s ist bereits im perfektem Zustand."
+   "%s%s reparieren? Das geht leider nicht."
+mend_beyond_hope = de "%s%s kann nicht mehr repariert werden."
+mend_full_healed = de "%s%s befindet sich im besten Zustand."
 mend_working = de \
-   "Teile von %s%s verbinden sich miteinander, um eine neue Einheit zu bilden."
+   "%s%s wird durch Deine magische Kraft repariert."
